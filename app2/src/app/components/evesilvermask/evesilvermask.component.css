@@ -1,0 +1,15 @@
+
+body{background-color: rgb(233, 185, 167);}
+.evecoalmask p{
+    text-align: center;font-size: 60px;font-weight: bold;
+}
+.evecoalmask img{
+    margin-left:5%;
+}
+.parg{
+    font-size: 25px;margin-top:40px;margin-left: 10%;font-family:Arial, Helvetica, sans-serif;width: 80%;
+}
+.parg p{margin-left: 3%;}
+.parg span{
+    border-bottom: 2px solid red;
+}
